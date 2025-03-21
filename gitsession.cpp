@@ -13,5 +13,15 @@ int main()
    cout << "the first command with name first";
    cout << "this is the comming line to be deleted";
 
+
+
+
+
+
+
+
+
+   
+
 }
 
